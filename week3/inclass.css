@@ -1,0 +1,22 @@
+* {
+    font-family: sans-serif;
+}
+
+h1, h2 {
+    color: grey;
+}
+
+h1 {
+    border-bottom: 1px solid black;
+}
+
+h2 {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+}
+
+ul li {
+    color: brown;
+}
